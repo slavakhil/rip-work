@@ -1,0 +1,21 @@
+.changeInputField{
+	font-size: 13px;
+	padding: 6px 0 4px 10px;
+	border: 1px solid #cecece;
+	background: #F6F6f6;
+	border-radius: 8px;
+}
+
+.deleteButton{
+    appearance: none;
+    border: 0;
+    border-radius: 8px;
+    background: #4676D7;
+    color: #fff;
+    padding: 6px 12px 4px 10px;
+    font-size: 16px;
+}
+
+.box{
+    margin-top: 10px;
+}
